@@ -3,7 +3,7 @@
         <img align="right" alt="Coding"  src="https://github.com/OptimisticNurul/OptimisticNurul/blob/main/Kazi%20Md%20Nurul%20Islam.gif">
     </div>
 </div>
-<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kazi+Md+Nurul+Islam!;" />
@@ -34,18 +34,18 @@
   <a href="https://github.com/OptimisticNurul/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
+
 
 </td>
 <td width="50%" align="center">
-<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
+
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
   
   </td>
 </tr>
 </table>
-<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
+
 <hr/>
 
 <h3 align="center">⚡ My Statistics ⚡</h3>

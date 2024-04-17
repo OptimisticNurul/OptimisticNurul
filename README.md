@@ -12,7 +12,7 @@
 <h3 align="center">I'm a Full Stack Developer | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=OptimisticNurul&label=Profile%20views&color=0e75b6&style=flat" alt="OptimisticNurul" /> </p>
 <br/>
-<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
+
 
 <table align="center">
 <tr border="none">
@@ -23,7 +23,7 @@
 🌱 I’m currently learning **More...**
 <!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 💬 Ask me about **Anything [here](https://github.com/OptimisticNurul/)**
-<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
+
 
   <a href="mailto:info.optimisticnurul@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />

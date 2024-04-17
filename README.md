@@ -3,27 +3,27 @@
         <img align="right" alt="Coding"  src="https://github.com/OptimisticNurul/OptimisticNurul/blob/main/Kazi%20Md%20Nurul%20Islam.gif">
     </div>
 </div>
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kazi+Md+Nurul+Islam!;" />
 </h1>
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 <h3 align="center">I'm a Full Stack Developer | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=OptimisticNurul&label=Profile%20views&color=0e75b6&style=flat" alt="OptimisticNurul" /> </p>
 <br/>
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-  
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 🔭 I’m currently working on **Marketplace**
- 
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 🌱 I’m currently learning **More...**
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 💬 Ask me about **Anything [here](https://github.com/OptimisticNurul/)**
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 
   <a href="mailto:info.optimisticnurul@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -34,18 +34,18 @@
   <a href="https://github.com/OptimisticNurul/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 
 </td>
 <td width="50%" align="center">
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
   
   </td>
 </tr>
 </table>
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 <hr/>
 
 <h3 align="center">⚡ My Statistics ⚡</h3>
@@ -53,22 +53,22 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
+  <!-- Kazi Md Nurul Islam (OptimisticNurul) -->
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=OptimisticNurul&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OptimisticNurul&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OptimisticNurul&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  <!-- Kazi Md Nurul Islam (OptimisticNurul) -->
   </td>
 </tr>
 </table>
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 
 <hr/>
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -84,13 +84,10 @@
     <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" /> </a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" /><br>
 </div>
-
-
-
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
     
 <hr/>
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 <div align="center">
     <h2>🏆 GitHub Trophies 🏆</h2>
     <br/>
@@ -98,11 +95,12 @@
         <img src="https://github-profile-trophy.vercel.app/?username=OptimisticNurul&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4">
     </div>
 </div>
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 <hr/>
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 <div align="center">
     <h2>✍️ Dev Quote ✍️</h2>
     <br/>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->

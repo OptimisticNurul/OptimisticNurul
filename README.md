@@ -3,7 +3,7 @@
         <img align="right" alt="Coding"  src="https://github.com/OptimisticNurul/OptimisticNurul/blob/main/Kazi%20Md%20Nurul%20Islam.gif">
     </div>
 </div>
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kazi+Md+Nurul+Islam!;" />
@@ -12,18 +12,18 @@
 <h3 align="center">I'm a Full Stack Developer | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=OptimisticNurul&label=Profile%20views&color=0e75b6&style=flat" alt="OptimisticNurul" /> </p>
 <br/>
-
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
-🔭 I’m currently working on **Marketplace**
-<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
-🌱 I’m currently learning **More...**
-<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
-💬 Ask me about **Anything [here](https://github.com/OptimisticNurul/)**
 
+🔭 I’m currently working on **Marketplace**
+
+🌱 I’m currently learning **More...**
+
+💬 Ask me about **Anything [here](https://github.com/OptimisticNurul/)**
+<!-- Kazi Md Nurul Islam (OptimisticNurul) -->
 
   <a href="mailto:info.optimisticnurul@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
